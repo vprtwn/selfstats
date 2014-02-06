@@ -1,0 +1,4 @@
+selfstats
+=========
+
+quantified self dashboard
